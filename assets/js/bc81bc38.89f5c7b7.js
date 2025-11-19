@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[1787],{45124:e=>{e.exports=JSON.parse('{"authors":[{"name":"Sobeston","title":"zig.guide maintainer","url":"https://github.com/Sobeston/","page":{"permalink":"/zig.guide/posts/authors/sobeston"},"imageURL":"https://github.com/sobeston.png","key":"sobeston","count":3}]}')}}]);

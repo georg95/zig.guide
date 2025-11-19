@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[2145],{77367:e=>{e.exports=JSON.parse('{"tags":[{"label":"Zig 0.13.0","permalink":"/zig.guide/posts/tags/zig-0-13-0","count":3}]}')}}]);
